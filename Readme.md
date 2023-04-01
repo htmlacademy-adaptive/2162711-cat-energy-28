@@ -1,7 +1,8 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Кирилл Джусоев](https://up.htmlacademy.ru/adaptive/28/user/2162711).
-* Наставник: `Неизвестно`.
+- Студент: [Кирилл Джусоев](https://up.htmlacademy.ru/adaptive/28/user/2162711).
+- Наставник: Юрий
+  Белобородов. https://htmlacademy.ru/profile/id514591
 
 ---
 
